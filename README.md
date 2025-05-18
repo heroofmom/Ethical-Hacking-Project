@@ -1,6 +1,6 @@
 # 🛡️ Ethical Hacking Project: Simulating Real-World Network Exploitation and Defense
 
-**Author:** Abhishek Kumar Singh
+**Author:** Arya Kumari
 **Semester:** 6th  
 **Section:** CY6
 
